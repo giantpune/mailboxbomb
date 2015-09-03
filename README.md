@@ -1,12 +1,6 @@
 Wilbrand
 2011 giantpune
 
-[1]	About
-[2] Usage
-[3] Compiling
-[4] Authors
-[5] Changelog
-[6]	License
 
 [1]	About
 	This is a program used to build teh mailbox bomb exploit for the Wii system menu.  
@@ -91,4 +85,4 @@ giantpune		-	finding the initial bug [WOOHOO!], dumping and debugging 32 version
 [6]	License
 Wilbrand is licensed under the GPL v2 license.  The AES and SHA1 code each have their own license and copyright.  See those files
 for their respective licenses.  Savezelda is licensed under GPL v2 as well.
- 
+
