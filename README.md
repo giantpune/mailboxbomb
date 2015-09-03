@@ -7,7 +7,9 @@ Wilbrand
 
 [2] Usage
 This is a cli program.  If you don't know how to use it, google.  Here is the usage:
+```sh
 Wilbrand <MAC address> <date> <sysmenu version> <SD Root>
+```
 
 MAC address:	the wireless mac address of the wii. you can get this from the internet settings, or if those are inaccessible
 				for whatever reason, many routers will display it.  It may contain dashes, colons, or spaces, but should be 12
