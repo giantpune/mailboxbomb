@@ -3,7 +3,7 @@ Wilbrand
 
 
 [1]	About
-	This is a program used to build teh mailbox bomb exploit for the Wii system menu.  
+	This is a program used to build the mailbox bomb exploit for the Wii system menu.  
 
 [2] Usage
 This is a cli program.  If you don't know how to use it, google.  Here is the usage:
@@ -32,7 +32,7 @@ Examples:
 ./Wilbrand 00-11-22-33-44-55 163a09c4 43U /media/sdcard
 ./Wilbrand '00 11 22 33 44 55' 163a09c4 4.3K F:
 
-	You need to use an SD card that is supported by your system menu version.  To test this, go to the data management or SD card
+You need to use an SD card that is supported by your system menu version.  To test this, go to the data management or SD card
 menu and try to use the SD card.  It will tell you if it can't be used.  Once you have run this program, and have the exploit
 message on your SD card, you need some homebrew to load.  This one works pretty well [ http://bootmii.org/download/ ].  Save
 the homebrew as SD:/boot.elf.  Then stick the SD card in your wii, start it up, go to the message board, and then scroll to the
